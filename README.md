@@ -11,4 +11,4 @@ EcoBin
 </head>
 <body>
     <div class="container" align=justify>
-        <p>Penanggulangan Bencana Banjir dengan Monitoring Real-time Ketinggian Air Sungai Berbasis IoT Inovasi Tempat Sampah Pintar Berbasis IoT untuk Pemilahan Sampah Otomatis dan Ramah Lingkungan</p>
+        <p>Inovasi Tempat Sampah Pintar Berbasis IoT untuk Pemilahan Sampah Otomatis dan Ramah Lingkungan</p>
