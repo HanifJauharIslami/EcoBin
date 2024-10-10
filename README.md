@@ -63,8 +63,8 @@ EcoBin
                 <td>Dwi Angga Ramadhani</td>
                 <td>2122600053</td>
                 <td>UI/UX Designer</td>
-                <td>Angga</td>
-                <td>  </td>
+                <td>dwiangga12</td>
+                <td>https://github.com/dwiangga12</td>
             </tr>
              <tr>
                 <td align = center>6</td>
