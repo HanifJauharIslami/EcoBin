@@ -31,8 +31,8 @@ EcoBin
                 <td>Regar Mukti Wijaya</td>
                 <td>2122600032</td>
                 <td>Hardware Developer</td>
-                <td>Regarr</td>
-                <td>  </td>
+                <td>Reigar304</td>
+                <td>https://github.com/Regar304</td>
             </tr>
             <tr>
                 <td align = center>2</td>
