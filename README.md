@@ -78,4 +78,5 @@ EcoBin
     </table>
 </body>
      <h3>Desain 3D Plan</h3>
+         <img src= "Desain3D1.jpg" width = 400>
 
