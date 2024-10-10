@@ -13,7 +13,8 @@ EcoBin
     <div class="container" align=justify>
         <p>Inovasi Tempat Sampah Pintar Berbasis IoT untuk Pemilahan Sampah Otomatis dan Ramah Lingkungan</p>
     </div>
-    <h2>Daftar Nama Anggota Team</h2>
+    <h2>Daftar Nama Anggota Team
+    </h2>
     <table>
         <thead>
             <tr>
@@ -76,7 +77,8 @@ EcoBin
             </tr>
         </tbody>
     </table>
-      <h3>Desain 3D Plan</h3>
+      <h3>Desain 3D Plan
+      </h3>
         <img src= "Desain3D2.jpg" width = 400>
         <img src= "Desain3D1.jpg" width = 400>
 </body>
