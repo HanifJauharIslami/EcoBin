@@ -27,17 +27,45 @@ EcoBin
         <tbody>
             <tr>
                 <td>1</td>
+                <td>Regar Mukti Wijaya</td>
+                <td>2122600032</td>
+                <td>Hardware Developer</td>
+                <td>Regarr</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Yunanta Adi Wijaya</td>
+                <td>2122600034</td>
+                <td>Data Analyst</td>
+                <td>Yunan</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Veda Alfa Elydal</td>
+                <td>2122600039</td>
+                <td>Software Developer</td>
+                <td>Veda Alfa</td>
+            </tr>
+                <tr>
+                <td>4</td>
                 <td>Hanif Jauhar Islami</td>
                 <td>2122600048</td>
                 <td>Project Manager</td>
                 <td>HanifJauharIslami</td>
             </tr>
                 <tr>
-                <td>1</td>
-                <td>Hanif Jauhar Islami</td>
-                <td>2122600048</td>
-                <td>Project Manager</td>
-                <td>HanifJauharIslami</td>
+                <td>5</td>
+                <td>Dwi Angga Ramadhani</td>
+                <td>2122600053</td>
+                <td>UI/UX Designer</td>
+                <td>Angga</td>
+            </tr>
+             <tr>
+                <td>6</td>
+                <td> Dewa Gede Angkasa Arinanta </td>
+                <td>2122600059</td>
+                <td>3D Designer</td>
+                <td>Dewa</td>
             </tr>
         </tbody>
     </table>
