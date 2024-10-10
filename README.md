@@ -27,7 +27,7 @@ EcoBin
         </thead>
         <tbody>
             <tr>
-                <td>1</td>
+                <td align = center>1</td>
                 <td>Regar Mukti Wijaya</td>
                 <td>2122600032</td>
                 <td>Hardware Developer</td>
