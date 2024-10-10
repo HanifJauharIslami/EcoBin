@@ -39,8 +39,8 @@ EcoBin
                 <td>Yunanta Adi Wijaya</td>
                 <td>2122600034</td>
                 <td>Data Analyst</td>
-                <td>Yunan</td>
-                <td>  </td>
+                <td>WAYs-s</td>
+                <td>https://github.com/WAYs-s</td>
             </tr>
             <tr>
                 <td align = center>3</td>
