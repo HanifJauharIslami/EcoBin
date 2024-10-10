@@ -22,6 +22,7 @@ EcoBin
                 <th>NRP</th>
                 <th>Jobdesk</th>
                 <th>Nama Akun</th>
+                <th>Link Akun</th>
             </tr>
         </thead>
         <tbody>
@@ -31,6 +32,7 @@ EcoBin
                 <td>2122600032</td>
                 <td>Hardware Developer</td>
                 <td>Regarr</td>
+                <td>  </td>
             </tr>
             <tr>
                 <td>2</td>
@@ -38,6 +40,7 @@ EcoBin
                 <td>2122600034</td>
                 <td>Data Analyst</td>
                 <td>Yunan</td>
+                <td>  </td>
             </tr>
             <tr>
                 <td>3</td>
@@ -45,6 +48,7 @@ EcoBin
                 <td>2122600039</td>
                 <td>Software Developer</td>
                 <td>Veda Alfa</td>
+                <td>  </td>
             </tr>
                 <tr>
                 <td>4</td>
@@ -52,6 +56,7 @@ EcoBin
                 <td>2122600048</td>
                 <td>Project Manager</td>
                 <td>HanifJauharIslami</td>
+                <td>  </td>
             </tr>
                 <tr>
                 <td>5</td>
@@ -59,6 +64,7 @@ EcoBin
                 <td>2122600053</td>
                 <td>UI/UX Designer</td>
                 <td>Angga</td>
+                <td>  </td>
             </tr>
              <tr>
                 <td>6</td>
@@ -66,6 +72,7 @@ EcoBin
                 <td>2122600059</td>
                 <td>3D Designer</td>
                 <td>Dewa</td>
+                <td>  </td>
             </tr>
         </tbody>
     </table>
