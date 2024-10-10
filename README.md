@@ -47,8 +47,8 @@ EcoBin
                 <td>Veda Alfa Elydal</td>
                 <td>2122600039</td>
                 <td>Software Developer</td>
-                <td>Veda Alfa</td>
-                <td>  </td>
+                <td>Vedaalfaelydal</td>
+                <td>https://github.com/Vedaalfaelydal</td>
             </tr>
                 <tr>
                 <td align = center>4</td>
@@ -71,8 +71,8 @@ EcoBin
                 <td> Dewa Gede Angkasa Arinanta </td>
                 <td>2122600059</td>
                 <td>3D Designer</td>
-                <td>Dewa</td>
-                <td>  </td>
+                <td>dede-akgs</td>
+                <td>https://github.com/dede-akgs</td>
             </tr>
         </tbody>
     </table>
