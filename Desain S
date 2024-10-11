@@ -1,1 +1,4 @@
-
+git clone https://github.com/HanifJauharIslami/EcoBin.git
+git rm Desain S
+git commit -m "Menghapus file"
+git push origin branch-name
