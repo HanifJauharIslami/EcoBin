@@ -7,7 +7,7 @@
 <h1>
 EcoBin
 </h1>
-    <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Eco%20Bin.png" width = 400>
+    <img src= "Logo_EcoBin.png" width = 400>
 </head>
 <body>
     <div class="container" align=justify>
