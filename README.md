@@ -79,13 +79,11 @@ EcoBin
     </table>
       <h3>Desain 3D Plan
       </h3>
-        <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Dokumentasi/Desain%203D-1.jpg" width = 400>
-        <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Dokumentasi/Desain%203D-2.jpg" width = 400>
-        <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Dokumentasi/Desain%203D%20-%20Tampak%20Sudut.png" width = 400>
-        <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Dokumentasi/Desain%203D%20Terbuka%20-%20Tampak%20Sudut.png" width = 400>
-        <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Dokumentasi/Desain%203D%20-%20Tampak%20Depan.png" width = 400>
-        <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Dokumentasi/Desain%203D%20-%20Tampak%20Samping.png" width = 400>
-        <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Dokumentasi/Desain%203D%20-%20Tampak%20Belakang.png" width = 400>
+        <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Desain%203D%20EcoBin/Desain%203D%20-%20Tampak%20Sudut.png" width = 400>
+        <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Desain%203D%20EcoBin/Desain%203D%20Terbuka%20-%20Tampak%20Sudut.png" width = 400>
+        <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Desain%203D%20EcoBin/Desain%203D%20-%20Tampak%20Depan.png" width = 400>
+        <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Desain%203D%20EcoBin/Desain%203D%20-%20Tampak%20Samping.png" width = 400>
+        <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Desain%203D%20EcoBin/Desain%203D%20-%20Tampak%20Belakang.png" width = 400>
 </body>
    
 
