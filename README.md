@@ -81,6 +81,7 @@ EcoBin
       </h3>
         <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Dokumentasi/Desain%203D-1.jpg" width = 400>
         <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Dokumentasi/Desain%203D-2.jpg" width = 400>
+        <img src= "https:" width = 400>
 </body>
    
 
