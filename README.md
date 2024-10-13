@@ -87,7 +87,7 @@ EcoBin
     <h4>Source Code ESP32
     </h4>
     Link Wokwi Sistem EcoBin
-    https://wokwi.com/projects/411640328942433281
+   https://wokwi.com/projects/411379523365083137
 </body>
    
 
