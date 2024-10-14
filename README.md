@@ -1,105 +1,107 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-<h1>
-EcoBin
-</h1>
-    <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Dokumentasi/Logo_EcoBin.png" width = 400>
-</head>
-<body>
-    <div class="container" align=justify>
-        <p>Inovasi Tempat Sampah Pintar Berbasis IoT untuk Pemilahan Sampah Otomatis dan Ramah Lingkungan</p>
-    </div>
-</body>
-    
-<h2>Didukung oleh :</h2>
-<body>
-    <div class="container" align=justify>
-    <p> Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)</p>
-    <p> Mata kuliah : IoT dan Jaringan Sensor</p>
-    <p> Program Studi : D4 Teknik Elektronika</p>
-    <p> Politeknik Elektronika Negeri Surabaya</p>
-     </div>
-</body>
-    <body>
-    <h3>Daftar Nama Anggota Team
-    </h3>
-    <table>
-        <thead>
-            <tr>
-                <th>Nomor</th>
-                <th>Nama</th>
-                <th>NRP</th>
-                <th>Jobdesk</th>
-                <th>Nama Akun</th>
-                <th>Link Akun</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td align = center>1</td>
-                <td>Regar Mukti Wijaya</td>
-                <td>2122600032</td>
-                <td>Hardware Developer</td>
-                <td>Reigar304</td>
-                <td>https://github.com/Regar304</td>
-            </tr>
-            <tr>
-                <td align = center>2</td>
-                <td>Yunanta Adi Wijaya</td>
-                <td>2122600034</td>
-                <td>Data Analyst</td>
-                <td>WAYs-s</td>
-                <td>https://github.com/WAYs-s</td>
-            </tr>
-            <tr>
-                <td align = center>3</td>
-                <td>Veda Alfa Elydal</td>
-                <td>2122600039</td>
-                <td>Software Developer</td>
-                <td>Vedaalfaelydal</td>
-                <td>https://github.com/Vedaalfaelydal</td>
-            </tr>
-                <tr>
-                <td align = center>4</td>
-                <td>Hanif Jauhar Islami</td>
-                <td>2122600048</td>
-                <td>Project Manager</td>
-                <td>HanifJauharIslami</td>
-                <td>https://github.com/HanifJauharIslami</td>
-            </tr>
-                <tr>
-                <td align = center>5</td>
-                <td>Dwi Angga Ramadhani</td>
-                <td>2122600053</td>
-                <td>UI/UX Designer</td>
-                <td>dwiangga12</td>
-                <td>https://github.com/dwiangga12</td>
-            </tr>
-             <tr>
-                <td align = center>6</td>
-                <td> Dewa Gede Angkasa Arinanta </td>
-                <td>2122600059</td>
-                <td>3D Designer</td>
-                <td>dede-akgs</td>
-                <td>https://github.com/dede-akgs</td>
-            </tr>
-        </tbody>
-    </table>
-      <h4>Desain 3D Plan
-      </h4>
-        <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Desain%203D%20EcoBin/Desain%203D%20-%20Tampak%20Sudut.png" width = 400>
-        <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Desain%203D%20EcoBin/Desain%203D%20Terbuka%20-%20Tampak%20Sudut.png" width = 400>
-        <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Desain%203D%20EcoBin/Desain%203D%20-%20Tampak%20Depan.png" width = 400>
-        <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Desain%203D%20EcoBin/Desain%203D%20-%20Tampak%20Samping.png" width = 400>
-        <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Desain%203D%20EcoBin/Desain%203D%20-%20Tampak%20Belakang.png" width = 400>
-    <h5>Source Code ESP32
-    </h5>
-    Link Wokwi Sistem EcoBin
-   https://wokwi.com/projects/411379523365083137
-</body>
-   
+<img src="Dokumentasi/Logo_EcoBin.png">
 
+# EcoBin
+Inovasi Tempat Sampah Pintar Berbasis IoT untuk Pemilahan Sampah Otomatis dan Ramah Lingkungan.
+
+EcoBin adalah sebuah konsep pengembangan tempat sampah yang dilengkapi teknologi Internet of Things (IoT). Sistem ini secara otomatis memisahkan jenis-jenis sampah (seperti organik, anorganik, dan logam) menggunakan sensor-sensor yang terhubung ke jaringan, sehingga lebih efisien dan mendukung keberlanjutan lingkungan dengan pemilahan sampah yang lebih tepat. Selain itu, tempat sampah ini juga dapat dimonitoring dari jarak jauh untuk memantau kapasitas dan kondisi sampah secara real-time.
+
+## Didukung Oleh :
+>- Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)
+>- Mata kuliah : IoT dan Jaringan Sensor
+>- Program Studi : D4 Teknik Elektronika
+>- Politeknik Elektronika Negeri Surabaya<br>
+
+## Team Member :
+|      NRP      |       Nama      |    Jobdesk    |   Akun |
+| :-----------:|:----------------:| :------------:| :-----:|
+| 2122600032    | Regar Mukti Wijaya  | Hardware Developer       | [Reigar304](https://github.com/Regar304)
+| 2122600034    | Yunanta Adi Wijaya        |  Data Analyst | [WAYs-s](https://github.com/WAYs-s)
+| 2122600039    | Veda Alfa Elyda        |    Software Developer      | [Vedaalfaelydal](https://github.com/Vedaalfaelydal)
+| 2122600048    | Hanif Jauhar Islami              | Project Manager | [HanifJauharIslami](https://github.com/HanifJauharIslami)
+| 2122600053    | Dwi Angga Ramadhani               | UI/UX Designer     | [dwiangga12](https://github.com/dwiangga12)
+| 2122600059    | Dewa Gede Angkasa Arinanta              | 3D Designer     |[dede-akgs](https://github.com/dede-akgs)
+
+## Daftar Isi
+- [Komponen Yang Digunakan](#Komponen-Yang-Digunakan)
+- [Wiring Plan](#Wiring-Plan)
+- [Hardware](#Hardware)
+- [Desain 3D](#Desain-3D)
+- [Program ESP32](#Program-ESP32)
+- [Program Design UI/UX](#Pogram-Design-UI/UX)
+
+ 
+## Komponen Yang Digunakan
+1. **Hardware**<br>
+    a. ESP32<br>
+    b. Sensor Ultrasonik<br>
+    c. Sensor Proximity Induktif<br>
+    d. Sensor Proximity Kapasitif<br>
+    e. Sensor Proximity Infrared<br>
+    f. Motor Servo<br>
+    g. LCD 20X4 I2C<br>
+    h. Modul Df Player <br>
+    i. Speaker <br>
+    j. Power Supply <br>
+
+2. **Software**<br>
+    a. Arduino ide<br>
+    b. KiCad<br>
+    c. Inventor<br>
+    d. Visual Studio Code (VSC)<br>
+    e. Eagle<br>
+
+3. **Alat**<br>
+    a. Solder<br>
+    b. Timah solder<br>
+    c. Kabel jumper<br>
+    d. Breadboard<br>
+    e. Obeng<br>
+ 
+## Wiring Plan
+>- First Floor Plan
+>- <img src="Assets/First Floor Plan.jpg" width = 400>
+>- Second Floor Plan
+>- <img src="Assets/Second Floor Plan.jpg" width = 400>
+
+
+## [Hardware](https://github.com/NurRohmatHidayat/Smart-Building-Solution/tree/main/Hardware)
+
+Berikut ini adalah hasil skematik rangkaian EcoBin menggunakan software KiCad.
+<img src="Dokumentasi/Smart Building SCH.png">
+
+Berikut ini adalah hasil 3D dari  rangkaian EcoBin menggunakan software KiCad.
+
+<img src="Dokumentasi/Smart Building.jpg">
+
+## [Desain 3D](https://github.com/NurRohmatHidayat/Smart-Building-Solution/tree/main/Desain%203D)
+
+1. Desain 3D Casing Atas <br>
+<img src="Dokumentasi/Design Atas.png">
+
+2. Desain 3D Casing Bawah <br>
+<img src="Dokumentasi/Design Bawah.png">
+
+3. Desain 3D Casing Assembly <br>
+<img src="Dokumentasi/Asemmbly.png">
+
+Berikut adalah Link Thingivers Design 3D. Klik link Video Simulasi Software [Thingivers](https://www.thingiverse.com/thing:6796394)
+
+
+## Program ESP32
+
+Program utama dari projek ini :
+- [Arduino dengan C](https://github.com/NurRohmatHidayat/Smart-Building-Solution/tree/main/Program%20ESP32)
+
+Berikut ini adalah hasil rangkaian simulasi Smart Building System IoT menggunakan Wokwi.
+
+<img src="Dokumentasi/Rangkaian Modul ESP32.jpg">
+Simulasi ini kami menggunakan ESP32 untuk mengontrol sensor dan modul yang terhubung di breadboard. Simulasi dilakukan menggunakan Wokwi, yang memudahkan pengujian rangkaian secara virtual sebelum implementasi fisik. Rangkaian melibatkan sensor DHT22, modul relay, LED indikator, potensiometer, dan RTC untuk sinkronisasi waktu.
+
+Relay digunakan untuk mengontrol perangkat eksternal, sementara LED menunjukkan status sistem. Simulasi ini membantu dalam debugging dan memastikan komunikasi antar komponen berjalan baik. Meskipun Wokwi tidak menyediakan semua komponen, platform ini sangat berguna untuk pengujian dan visualisasi fungsi dasar rangkaian, membantu mengidentifikasi masalah sebelum produksi fisik.
+
+
+Berikut adalah video demontrasi alat menggunakan wokwi. Klik link [Video Simulasi Software](https://youtu.be/oXDYyiHHBaU "Video Simulasi Software")
+
+## [Program Design UI/UX]
+
+Berikut ini adalah program untuk WEB Smart Building System IoT menggunakan bahasa HTML [Program](https://github.com/NurRohmatHidayat/Smart-Building-Solution/tree/main/UI/UX%20Designer)
