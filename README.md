@@ -14,12 +14,15 @@ EcoBin
         <p>Inovasi Tempat Sampah Pintar Berbasis IoT untuk Pemilahan Sampah Otomatis dan Ramah Lingkungan</p>
     </div>
     
-    <h2>Didukung oleh :
-    <p>- Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)</p>
-    <p>- Mata kuliah : IoT dan Jaringan Sensor</p>
-    <p>- Program Studi : D4 Teknik Elektronika</p>
-    <p>- Politeknik Elektronika Negeri Surabaya</p>
-        
+<h2>Didukung oleh :
+<body>
+    <div class="container" align=justify>
+    <p> Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)</p>
+    <p> Mata kuliah : IoT dan Jaringan Sensor</p>
+    <p> Program Studi : D4 Teknik Elektronika</p>
+    <p> Politeknik Elektronika Negeri Surabaya</p>
+     </div>
+    
     <h2>Daftar Nama Anggota Team
     </h2>
     <table>
