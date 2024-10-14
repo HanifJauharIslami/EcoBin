@@ -13,8 +13,9 @@ EcoBin
     <div class="container" align=justify>
         <p>Inovasi Tempat Sampah Pintar Berbasis IoT untuk Pemilahan Sampah Otomatis dan Ramah Lingkungan</p>
     </div>
+</body>
     
-<h2>Didukung oleh :
+<h2>Didukung oleh :</h2>
 <body>
     <div class="container" align=justify>
     <p> Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)</p>
@@ -22,9 +23,10 @@ EcoBin
     <p> Program Studi : D4 Teknik Elektronika</p>
     <p> Politeknik Elektronika Negeri Surabaya</p>
      </div>
-    
-    <h2>Daftar Nama Anggota Team
-    </h2>
+</body>
+    <body>
+    <h3>Daftar Nama Anggota Team
+    </h3>
     <table>
         <thead>
             <tr>
@@ -87,15 +89,15 @@ EcoBin
             </tr>
         </tbody>
     </table>
-      <h3>Desain 3D Plan
-      </h3>
+      <h4>Desain 3D Plan
+      </h4>
         <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Desain%203D%20EcoBin/Desain%203D%20-%20Tampak%20Sudut.png" width = 400>
         <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Desain%203D%20EcoBin/Desain%203D%20Terbuka%20-%20Tampak%20Sudut.png" width = 400>
         <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Desain%203D%20EcoBin/Desain%203D%20-%20Tampak%20Depan.png" width = 400>
         <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Desain%203D%20EcoBin/Desain%203D%20-%20Tampak%20Samping.png" width = 400>
         <img src= "https://github.com/HanifJauharIslami/EcoBin/blob/main/Desain%203D%20EcoBin/Desain%203D%20-%20Tampak%20Belakang.png" width = 400>
-    <h4>Source Code ESP32
-    </h4>
+    <h5>Source Code ESP32
+    </h5>
     Link Wokwi Sistem EcoBin
    https://wokwi.com/projects/411379523365083137
 </body>
