@@ -82,7 +82,7 @@ Berikut adalah Link Thingivers Design 3D. Klik link Video Simulasi Software [Thi
 ## Program ESP32
 
 Program utama dari projek ini :
-- [Arduino dengan C](https://github.com/Vedaalfaelydal/EcoBin/tree/main/Source20%Code20%ESP)
+- [EcoBin Code](https://github.com/HanifJauharIslami/EcoBin/tree/f4bee43d3d4f70b857a67019edb6326d1a9f5407/Source%20Code%20ESP)
 
 Berikut ini adalah hasil rangkaian simulasi Smart Building System IoT menggunakan Wokwi.
 
