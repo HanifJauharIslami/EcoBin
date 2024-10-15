@@ -23,7 +23,6 @@ EcoBin adalah sebuah konsep pengembangan tempat sampah yang dilengkapi teknologi
 
 ## Daftar Isi
 - [Komponen Yang Digunakan](#Komponen-Yang-Digunakan)
-- [Wiring Plan](#Wiring-Plan)
 - [Hardware](#Hardware)
 - [Desain 3D](#Desain-3D)
 - [Program ESP32](#Program-ESP32)
@@ -57,13 +56,6 @@ EcoBin adalah sebuah konsep pengembangan tempat sampah yang dilengkapi teknologi
     d. Breadboard<br>
     e. Obeng<br>
  
-## Wiring Plan
->- First Floor Plan
->- <img src="Assets/First Floor Plan.jpg" width = 400>
->- Second Floor Plan
->- <img src="Assets/Second Floor Plan.jpg" width = 400>
-
-
 ## [Hardware](https://github.com/NurRohmatHidayat/Smart-Building-Solution/tree/main/Hardware)
 
 Berikut ini adalah hasil skematik rangkaian EcoBin menggunakan software KiCad.
@@ -73,16 +65,16 @@ Berikut ini adalah hasil 3D dari  rangkaian EcoBin menggunakan software KiCad.
 
 <img src="Dokumentasi/Smart Building.jpg">
 
-## [Desain 3D](https://github.com/NurRohmatHidayat/Smart-Building-Solution/tree/main/Desain%203D)
+## Desain 3D
 
-1. Desain 3D Casing Atas <br>
-<img src="Dokumentasi/Design Atas.png">
+1. Desain 3D Tampak Depan <br>
+<img src="Desain 3D EcoBin/Desain 3D - Tampak Depan.png">
 
-2. Desain 3D Casing Bawah <br>
-<img src="Dokumentasi/Design Bawah.png">
+2. Desain 3D Tampak Samping <br>
+<img src="Desain 3D EcoBin/Desain 3D Terbuka - Tampak Sudut.png">
 
-3. Desain 3D Casing Assembly <br>
-<img src="Dokumentasi/Asemmbly.png">
+3. Desain 3D Tampak Belakang <br>
+<img src="Desain 3D EcoBin/Desain 3D - Tampak Belakang.png">
 
 Berikut adalah Link Thingivers Design 3D. Klik link Video Simulasi Software [Thingivers](https://www.thingiverse.com/thing:6796394)
 
@@ -90,7 +82,7 @@ Berikut adalah Link Thingivers Design 3D. Klik link Video Simulasi Software [Thi
 ## Program ESP32
 
 Program utama dari projek ini :
-- [Arduino dengan C](https://github.com/NurRohmatHidayat/Smart-Building-Solution/tree/main/Program%20ESP32)
+- [Arduino dengan C](https://github.com/Vedaalfaelydal/EcoBin/tree/main/Source20%Code20%ESP)
 
 Berikut ini adalah hasil rangkaian simulasi Smart Building System IoT menggunakan Wokwi.
 
