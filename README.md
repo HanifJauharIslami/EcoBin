@@ -86,7 +86,7 @@ Program utama dari projek ini :
 
 Berikut ini adalah hasil Rangkaian Simulasi EcoBin menggunakan platform Wokwi.
 
-<img src="Dokumentasi/Dokumentasi/Gambar Rangakain di Wokwi.png">
+<img src="Dokumentasi/Gambar Rangakain di Wokwi.png">
 Simulasi ini kami menggunakan ESP32 untuk mengontrol sensor dan modul yang terhubung di breadboard. Simulasi dilakukan menggunakan Wokwi, yang memudahkan pengujian rangkaian secara virtual sebelum implementasi fisik. Rangkaian melibatkan sensor DHT22, modul relay, LED indikator, potensiometer, dan RTC untuk sinkronisasi waktu.
 
 Relay digunakan untuk mengontrol perangkat eksternal, sementara LED menunjukkan status sistem. Simulasi ini membantu dalam debugging dan memastikan komunikasi antar komponen berjalan baik. Meskipun Wokwi tidak menyediakan semua komponen, platform ini sangat berguna untuk pengujian dan visualisasi fungsi dasar rangkaian, membantu mengidentifikasi masalah sebelum produksi fisik.
