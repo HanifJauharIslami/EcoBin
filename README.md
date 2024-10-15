@@ -16,7 +16,7 @@ EcoBin adalah sebuah konsep pengembangan tempat sampah yang dilengkapi teknologi
 | :-----------:|:----------------:| :------------:| :-----:|
 | 2122600032    | Regar Mukti Wijaya  | Hardware Developer       | [Reigar304](https://github.com/Regar304)
 | 2122600034    | Yunanta Adi Wijaya        |  Data Analyst | [WAYs-s](https://github.com/WAYs-s)
-| 2122600039    | Veda Alfa Elyda        |    Software Developer      | [Vedaalfaelydal](https://github.com/Vedaalfaelydal)
+| 2122600039    | Veda Alfa Elydal        |    Software Developer      | [Vedaalfaelydal](https://github.com/Vedaalfaelydal)
 | 2122600048    | Hanif Jauhar Islami              | Project Manager | [HanifJauharIslami](https://github.com/HanifJauharIslami)
 | 2122600053    | Dwi Angga Ramadhani               | UI/UX Designer     | [dwiangga12](https://github.com/dwiangga12)
 | 2122600059    | Dewa Gede Angkasa Arinanta              | 3D Designer     |[dede-akgs](https://github.com/dede-akgs)
