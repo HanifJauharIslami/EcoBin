@@ -82,11 +82,11 @@ Berikut adalah Link Thingivers Design 3D. Klik link Video Simulasi Software [Thi
 ## Program ESP32
 
 Program utama dari projek ini :
-- [EcoBin Code](https://github.com/HanifJauharIslami/EcoBin/tree/f4bee43d3d4f70b857a67019edb6326d1a9f5407/Source%20Code%20ESP)
+- [EcoBin Code](https://github.com/HanifJauharIslami/EcoBin/blob/f4bee43d3d4f70b857a67019edb6326d1a9f5407/Source%20Code%20ESP/Source%20Code%20ESP32.ino)
 
-Berikut ini adalah hasil rangkaian simulasi Smart Building System IoT menggunakan Wokwi.
+Berikut ini adalah hasil Rangkaian Simulasi EcoBin menggunakan platform Wokwi.
 
-<img src="Dokumentasi/Rangkaian Modul ESP32.jpg">
+<img src="Dokumentasi/Dokumentasi/Gambar Rangakain di Wokwi.png">
 Simulasi ini kami menggunakan ESP32 untuk mengontrol sensor dan modul yang terhubung di breadboard. Simulasi dilakukan menggunakan Wokwi, yang memudahkan pengujian rangkaian secara virtual sebelum implementasi fisik. Rangkaian melibatkan sensor DHT22, modul relay, LED indikator, potensiometer, dan RTC untuk sinkronisasi waktu.
 
 Relay digunakan untuk mengontrol perangkat eksternal, sementara LED menunjukkan status sistem. Simulasi ini membantu dalam debugging dan memastikan komunikasi antar komponen berjalan baik. Meskipun Wokwi tidak menyediakan semua komponen, platform ini sangat berguna untuk pengujian dan visualisasi fungsi dasar rangkaian, membantu mengidentifikasi masalah sebelum produksi fisik.
