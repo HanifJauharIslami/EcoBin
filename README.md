@@ -92,7 +92,7 @@ Pada simulasi ini, ESP32 digunakan untuk mengendalikan input dan output yang ter
 
 Simulasi ini sangat berguna untuk proses debugging dan memastikan komunikasi antar-komponen berfungsi dengan baik. Meskipun Wokwi tidak menyediakan semua komponen, platform ini tetap sangat berguna untuk pengujian dan visualisasi fungsi dasar rangkaian, sehingga membantu dalam mengidentifikasi masalah sebelum proses produksi fisik.
 
-Berikut adalah video demontrasi alat menggunakan wokwi. Klik link [Video Simulasi Software](https://youtu.be/CGCrU7WQCkA"Video Simulasi Software")
+Berikut adalah video demontrasi alat menggunakan wokwi. Klik link [Video Simulasi Software](https://youtu.be/CGCrU7WQCkA  "Video Simulasi Software")
 
 ## [Program Design UI/UX]
 
