@@ -3,8 +3,11 @@
 # EcoBin
 Inovasi Tempat Sampah Pintar Berbasis IoT untuk Pemilahan Sampah Otomatis dan Ramah Lingkungan.
 
-EcoBin adalah sebuah konsep pengembangan tempat sampah yang dilengkapi teknologi Internet of Things (IoT). Sistem ini secara otomatis memisahkan jenis-jenis sampah (seperti organik, anorganik, dan logam) menggunakan sensor-sensor yang terhubung ke jaringan, sehingga lebih efisien dan mendukung keberlanjutan lingkungan dengan pemilahan sampah yang lebih tepat. Selain itu, tempat sampah ini juga dapat dimonitoring dari jarak jauh untuk memantau kapasitas dan kondisi sampah secara real-time.
+EcoBin adalah konsep pengembangan tempat sampah masa depan yang mengintegrasikan teknologi Internet of Things (IoT) untuk meningkatkan efisiensi dan akurasi dalam pemilahan sampah. Dengan EcoBin, pemisahan jenis sampah seperti organik, anorganik, dan logam kini bisa dilakukan secara otomatis, berkat penggunaan sensor-sensor canggih yang terhubung ke jaringan.
 
+Sistem ini tidak hanya mendukung keberlanjutan lingkungan dengan pemilahan sampah yang lebih tepat dan ramah lingkungan, tetapi juga memberikan solusi modern dan praktis dalam pengelolaan sampah di rumah maupun di tempat umum. Hebatnya lagi, EcoBin dapat dimonitor dari jarak jauh melalui internet, memungkinkan Anda untuk memantau kapasitas dan kondisi sampah secara real-time tanpa perlu repot membuka tempat sampah secara manual.
+
+Dengan EcoBin, kita bisa bersama-sama berkontribusi untuk mengurangi limbah, mendukung gerakan reduce, reuse, recycle, dan menjaga kebersihan lingkungan secara lebih efektif dengan teknologi terkini. 
 ## Didukung Oleh :
 >- Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)
 >- Mata kuliah : IoT dan Jaringan Sensor
@@ -88,7 +91,7 @@ Berikut ini adalah hasil Rangkaian Simulasi EcoBin menggunakan platform Wokwi.
 
 <img src="Dokumentasi/Gambar Rangakain di Wokwi.png">
 
-Pada simulasi ini, ESP32 digunakan untuk mengendalikan input dan output yang terhubung ke breadboard. Proses simulasi dilakukan di platform Wokwi, yang memudahkan pengujian rangkaian secara virtual sebelum diaplikasikan secara fisik. Rangkaian ini melibatkan Sensor Ultrasonik untuk mengukur kapasitas sampah, LCD 20X4 I2C yang menampilkan informasi kapasitas sampah, slide switch yang berfungsi sebagai pengganti sensor proximity induktif, kapasitif, dan inframerah, serta servo sebagai pemilah atas-bawah dan sebagai penutup ketika sampah sudah penuh. Speaker juga digunakan untuk memberikan notifikasi suara saat sampah mencapai kapasitas maksimum.
+Pada simulasi ini, ESP32 digunakan untuk mengendalikan input dan output yang terhubung ke breadboard. Proses simulasi dilakukan di platform Wokwi, yang memudahkan pengujian rangkaian secara virtual sebelum diaplikasikan secara fisik. Rangkaian ini melibatkan Sensor Ultrasonik untuk mengukur kapasitas sampah, LCD 20X4 I2C yang menampilkan informasi kapasitas sampah, slide switch yang berfungsi sebagai pengganti sensor proximity induktif, kapasitif, dan inframerah, serta servo sebagai pemilah atas-bawah dan sebagai penutup ketika sampah sudah penuh. Speaker juga digunakan untuk memberikan notifikasi suara saat sampah penuh atau mencapai kapasitas maksimum.
 
 Simulasi ini sangat berguna untuk proses debugging dan memastikan komunikasi antar-komponen berfungsi dengan baik. Meskipun Wokwi tidak menyediakan semua komponen, platform ini tetap sangat berguna untuk pengujian dan visualisasi fungsi dasar rangkaian, sehingga membantu dalam mengidentifikasi masalah sebelum proses produksi fisik.
 
@@ -99,4 +102,4 @@ Klik link [WOKWI SIMULATION](https://wokwi.com/projects/411379523365083137  "WOK
 
 ## [Program Design UI/UX]
 
-Berikut ini adalah program untuk WEB Smart Building System IoT menggunakan bahasa HTML [Program](https://github.com/NurRohmatHidayat/Smart-Building-Solution/tree/main/UI/UX%20Designer)
+Berikut ini adalah program untuk WEB EcoBin System IoT menggunakan bahasa HTML [Program](https://github.com/NurRohmatHidayat/Smart-Building-Solution/tree/main/UI/UX%20Designer)
