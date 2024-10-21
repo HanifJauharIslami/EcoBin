@@ -66,10 +66,6 @@ Berikut ini adalah hasil skematik rangkaian EcoBin menggunakan software Eagle.
 
 <img src="Dokumentasi/Board EcoBin.jpg">
 
-Berikut ini adalah hasil 3D dari  rangkaian EcoBin menggunakan software KiCad.
-
-<img src="Dokumentasi/Smart Building.jpg">
-
 ## Desain 3D
 
 1. Desain 3D Tampak Depan <br>
