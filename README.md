@@ -61,8 +61,10 @@ Dengan EcoBin, kita bisa bersama-sama berkontribusi untuk mengurangi limbah, men
  
 ## Hardware
 
-Berikut ini adalah hasil skematik rangkaian EcoBin menggunakan software KiCad.
-<img src="Dokumentasi/Smart Building SCH.png">
+Berikut ini adalah hasil skematik rangkaian EcoBin menggunakan software Eagle.
+<img src="Dokumentasi/Skematik EcoBin.jpg">
+
+<img src="Dokumentasi/Board EcoBin.jpg">
 
 Berikut ini adalah hasil 3D dari  rangkaian EcoBin menggunakan software KiCad.
 
