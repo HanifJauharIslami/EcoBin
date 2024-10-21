@@ -99,6 +99,6 @@ Berikut adalah video demontrasi simulasi rangkaian menggunakan platform Wokwi. K
 Klik link [WOKWI SIMULATION](https://wokwi.com/projects/411379523365083137  "WOKWI SIMULATION") untuk menjalankan simulasi pada platform Wokwi.
 
 ## [Design UI/UX]
-Berikut ini adalah video demonstrasi dari UI/UX EcoBin.
+Berikut ini adalah video demonstrasi dari UI/UX EcoBin (https://github.com/HanifJauharIslami/EcoBin/blob/main/Desain%20%26%20Perencanaan/Desain%20UI%20UX/Video%20Simulasi%20Desain%20UI%20UX.mp4)
 
 
