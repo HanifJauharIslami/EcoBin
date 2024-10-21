@@ -100,6 +100,7 @@ Berikut adalah video demontrasi simulasi rangkaian menggunakan platform Wokwi. K
 
 Klik link [WOKWI SIMULATION](https://wokwi.com/projects/411379523365083137  "WOKWI SIMULATION") untuk menjalankan simulasi pada platform Wokwi.
 
-## [Program Design UI/UX]
+## [Design UI/UX]
+Berikut ini adalah video demonstrasi dari UI/UX EcoBin.
 
-Berikut ini adalah program untuk WEB EcoBin System IoT menggunakan bahasa HTML [Program](https://github.com/NurRohmatHidayat/Smart-Building-Solution/tree/main/UI/UX%20Designer)
+
