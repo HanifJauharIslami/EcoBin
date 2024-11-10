@@ -52,12 +52,16 @@ Dengan EcoBin, kita bisa bersama-sama berkontribusi untuk mengurangi limbah, men
     d. Visual Studio Code (VSC)<br>
     e. Eagle<br>
 
-3. **Alat**<br>
+3. **Alat dan Bahan**<br>
     a. Solder<br>
     b. Timah solder<br>
     c. Kabel jumper<br>
     d. Breadboard<br>
     e. Obeng<br>
+    f. Bor Tangan<br>
+    g. Lem<br>
+    h. Isolasi<br>
+    i. Penggaris<br>
  
 ## Hardware
 
