@@ -44,6 +44,7 @@ Dengan EcoBin, kita bisa bersama-sama berkontribusi untuk mengurangi limbah, men
     h. Modul Df Player <br>
     i. Speaker <br>
     j. Power Supply <br>
+    k. SD Card<br>
 
 2. **Software**<br>
     a. Arduino ide<br>
@@ -58,10 +59,13 @@ Dengan EcoBin, kita bisa bersama-sama berkontribusi untuk mengurangi limbah, men
     c. Kabel jumper<br>
     d. Breadboard<br>
     e. Obeng<br>
-    f. Bor Tangan<br>
+    f. Bor tangan<br>
     g. Lem<br>
     h. Isolasi<br>
     i. Penggaris<br>
+    j. Tang potong<br>
+    k. AVO meter<br>
+    l. Kabel Tis<br>
  
 ## Hardware
 
