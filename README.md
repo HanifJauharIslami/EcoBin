@@ -73,15 +73,15 @@ Berikut ini adalah hasil skematik rangkaian EcoBin menggunakan software Eagle.
 ## Desain 3D
 
 1. Desain 3D Tampak Depan <br>
-<img src="Desain 3D EcoBin/Desain 3D - Tampak Depan.png">
+<img src="Desain 3D EcoBin/3D-Depan.png">
 
 2. Desain 3D Tampak Samping <br>
-<img src="Desain 3D EcoBin/Desain 3D Terbuka - Tampak Sudut.png">
+<img src="Desain 3D EcoBin/3D-Sudut.png">
 
 3. Desain 3D Tampak Belakang <br>
-<img src="Desain 3D EcoBin/Desain 3D - Tampak Belakang.png">
+<img src="Desain 3D EcoBin/3D-Belakang.png">
 
-Berikut adalah Link Thingivers Design 3D. Klik link Video Simulasi Software [Thingivers](https://www.thingiverse.com/thing:6796394)
+Berikut adalah Link Thingivers Design 3D. Klik link Video Simulasi Software [Thingivers](https://www.thingiverse.com/thing:6826473)
 
 
 ## Program ESP32
