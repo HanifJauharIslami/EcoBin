@@ -9,23 +9,23 @@
 
 # Mengapa Harus Menggunakan Kodular?
 
-Kodular adalah platform yang sangat cocok untuk siapa saja yang ingin membuat aplikasi Android dengan cepat dan mudah. Berikut adalah alasan mengapa Anda harus memilih Kodular:
+Kodular adalah platform yang ideal untuk membuat aplikasi Android dengan mudah. Berikut adalah alasan utama mengapa Anda harus memilih Kodular:
 
-## 1. Tidak Memerlukan Pengetahuan Coding
-Kodular memungkinkan Anda membuat aplikasi tanpa menulis satu baris kode pun. Semua logika dapat dibuat menggunakan blok visual yang intuitif, sehingga cocok untuk pemula.
+- **Tidak Memerlukan Pengetahuan Coding**  
+  Membuat aplikasi tanpa menulis satu baris kode pun. Kodular memungkinkan Anda membuat logika aplikasi menggunakan blok visual yang mudah dipahami.
 
-## 2. Antarmuka Visual yang Mudah Digunakan
-Kodular menyediakan antarmuka desain berbasis *drag-and-drop* yang sederhana dan ramah pengguna. Anda cukup menarik komponen ke layar, menyesuaikan properti, dan aplikasi Anda siap dibuat.
+- **Antarmuka Visual yang Mudah Digunakan**  
+  Kodular menyediakan antarmuka berbasis *drag-and-drop* untuk merancang aplikasi. Anda hanya perlu menarik komponen seperti tombol, label, atau grafik dan menyusunnya sesuai kebutuhan.
 
-## 3. Mendukung Banyak Fitur Bawaan
-Kodular memiliki banyak fitur bawaan yang memudahkan pengembangan aplikasi:
-- API integrasi (Google Sheets, Firebase, REST API).
-- Koneksi Bluetooth dan IoT.
-- Komponen untuk membuat notifikasi push.
-- Dukungan penuh untuk desain responsif.
+- **Mendukung Banyak Fitur Bawaan**  
+  Kodular memiliki fitur bawaan yang sangat lengkap untuk pengembangan aplikasi modern:  
+  - **Database:** Google Sheets, Firebase, TinyDB.  
+  - **API:** Dukungan integrasi REST API untuk mendapatkan dan mengirim data.  
+  - **Media:** Pemutar audio, video, dan tampilan gambar.  
+  - **IoT:** Komponen MQTT dan Bluetooth untuk komunikasi perangkat IoT.  
 
-## 4. Gratis untuk Digunakan dengan Opsi Ekspor ke APK
-Kodular dapat digunakan secara gratis untuk semua pengembangan aplikasi, dan Anda dapat dengan mudah mengekspor aplikasi Anda ke file APK untuk diinstal di perangkat Android tanpa biaya tambahan.
+- **Gratis untuk Digunakan dengan Opsi Ekspor ke APK**  
+  Kodular sepenuhnya gratis untuk digunakan, termasuk fitur ekspor ke file APK. Tidak ada biaya tersembunyi untuk memulai atau mencoba platform ini.
 
 ---
 
@@ -129,12 +129,12 @@ Jika ingin membagikan aplikasi, Anda bisa mengunggahnya ke Google Play Store.
 3. Buat deskripsi aplikasi, tangkapan layar, dan metadata lainnya.
 
 
-## Tambahan: Tips untuk Pemula
+## TIPS
 - Gunakan **komponen bawaan** Kodular terlebih dahulu sebelum mencoba ekstensi pihak ketiga.
 - Dokumentasikan proyek Anda agar lebih mudah dipahami di masa depan.
 - Bergabung dengan komunitas Kodular untuk bertanya dan belajar dari pengguna lain.
 
 
-**Selamat mencoba dan semoga berhasil! 🎉**
+# **Selamat mencoba dan semoga berhasil! 🎉**
 
 ---
