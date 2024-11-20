@@ -76,8 +76,9 @@ Gunakan panel **Designer** untuk mendesain tampilan aplikasi.
 
 ## 5. Tambahkan Fungsionalitas (Logic)
 Tambahkan logika aplikasi di tab **Blocks** untuk membuat aplikasi lebih dinamis.
-
-**Langkah-langkah:**
+<br/> <img src="Media/blocks%20kodular.png" alt="blocks kodular" width="600" height="300">
+<br/> 
+<br/> **Langkah-langkah:**
 1. **Integrasi Google Spreadsheet:**
    - Gunakan komponen **Google Sheets**.
    - Tambahkan API key atau URL Spreadsheet Anda.
