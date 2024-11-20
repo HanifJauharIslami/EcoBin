@@ -63,9 +63,9 @@ Langkah ini untuk memulai aplikasi dari nol.
 
 ## 4. Desain Antarmuka (User Interface)
 Gunakan panel **Designer** untuk mendesain tampilan aplikasi.  
-    <br/>
-        <img src="Media/Login%20UI%20Kodular.png" alt="login kodular" width="230" height="400">
-    <br/>
+<img src="Media/Tools%20Kodular.png" alt="tools kodular" width="230" height="400">
+<br/>
+<br/>
 **Langkah-langkah:**
 - Tambahkan komponen:
   - **Label:** Untuk teks atau informasi statis.
