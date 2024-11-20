@@ -48,7 +48,7 @@ Anda membutuhkan akun Kodular untuk memulai.
 
 **Langkah-langkah:**
 1. Kunjungi [Kodular Creator](https://creator.kodular.io).
-2. Buat akun menggunakan email Anda atau login jika sudah punya akun. <br/> <img src="Media/login%20kodular.png" alt="login kodular" width="250" height="400">
+2. Buat akun menggunakan email Anda atau login jika sudah punya akun. <br/> <img src="Media/login%20kodular.png" alt="login kodular" width="230" height="400">
 3. Masuk ke dashboard Kodular.
 
 
@@ -62,8 +62,10 @@ Langkah ini untuk memulai aplikasi dari nol.
 
 
 ## 4. Desain Antarmuka (User Interface)
-Gunakan panel **Designer** untuk mendesain tampilan aplikasi.
-
+Gunakan panel **Designer** untuk mendesain tampilan aplikasi.  
+    <br/>
+        <img src="Media/Login%20UI%20Kodular.png" alt="login kodular" width="230" height="400">
+    <br/>
 **Langkah-langkah:**
 - Tambahkan komponen:
   - **Label:** Untuk teks atau informasi statis.
