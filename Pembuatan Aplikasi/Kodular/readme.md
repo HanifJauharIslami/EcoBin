@@ -97,8 +97,12 @@ Uji aplikasi di perangkat Android sebelum membangun file APK.
 
 **Langkah-langkah:**
 1. Unduh **Kodular Companion** dari Google Play Store.
-2. Sambungkan perangkat Anda dengan Kodular melalui QR Code.
-3. Uji semua fungsi aplikasi secara real-time.
+2. Tekan **Test** di bagain dashboard atas lalu tekan **Connect to Companion**
+   <br/>
+   <img src="Media/Test%20Companion.png" alt="test companion kodular" width="230" height="170">
+   <br/>
+4. Sambungkan perangkat Anda dengan Kodular melalui QR Code.
+5. Uji semua fungsi aplikasi secara real-time.
 
 **Tips:** Periksa setiap fitur untuk memastikan tidak ada bug.
 
