@@ -14,114 +14,105 @@ Aplikasi ini dibangun menggunakan Kodular, sebuah platform tanpa kode (*no-code*
 ---
 
 ## 1. Riset dan Persiapan Awal
-Langkah pertama sebelum mulai membuat aplikasi adalah memahami apa yang ingin Anda buat.
-
+Langkah pertama sebelum mulai membuat aplikasi adalah memahami apa yang ingin Anda buat.  
 **Langkah-langkah:**
-- Tentukan tujuan aplikasi. Misalnya: monitoring sensor suhu, kelembapan, atau lainnya.
-- Siapkan bahan-bahan yang dibutuhkan, seperti data dari sensor, URL API, atau Google Spreadsheet.
-- (Opsional) Buat sketsa sederhana desain aplikasi agar lebih terarah.
+a. Tentukan tujuan aplikasi. Misalnya: monitoring sensor suhu, kelembapan, atau lainnya. <br>
+b. Siapkan bahan-bahan yang dibutuhkan, seperti data dari sensor, URL API, atau Google Spreadsheet. <br>
+c. (Opsional) Buat sketsa sederhana desain aplikasi agar lebih terarah. <br>
 
 ---
 
 ## 2. Membuat Akun Kodular
-Anda membutuhkan akun Kodular untuk memulai.
-
-**Langkah-langkah:**
-1. Kunjungi [Kodular Creator](https://creator.kodular.io).
-2. Buat akun menggunakan email Anda atau login jika sudah punya akun.
-3. Masuk ke dashboard Kodular.
+Anda membutuhkan akun Kodular untuk memulai.  
+**Langkah-langkah:** <br>
+a. Kunjungi [Kodular Creator](https://creator.kodular.io). <br>
+b. Buat akun menggunakan email Anda atau login jika sudah punya akun. <br>
+c. Masuk ke dashboard Kodular. <br>
 
 ---
 
 ## 3. Buat Proyek Baru
-Langkah ini untuk memulai aplikasi dari nol.
-
-**Langkah-langkah:**
-1. Klik tombol **"Create Project"** di dashboard Kodular.
-2. Beri nama proyek Anda (contoh: MonitoringApp).
-3. Pilih template kosong agar lebih fleksibel dalam desain.
+Langkah ini untuk memulai aplikasi dari nol.  
+**Langkah-langkah:** <br>
+a. Klik tombol **"Create Project"** di dashboard Kodular. <br>
+b. Beri nama proyek Anda (contoh: MonitoringApp). <br>
+c. Pilih template kosong agar lebih fleksibel dalam desain. <br>
 
 ---
 
 ## 4. Desain Antarmuka (User Interface)
-Gunakan panel **Designer** untuk mendesain tampilan aplikasi.
+Gunakan panel **Designer** untuk mendesain tampilan aplikasi.  
+**Langkah-langkah:** <br>
+a. Tambahkan komponen:
+   - **Label:** Untuk teks atau informasi statis. <br>
+   - **Button:** Untuk aksi pengguna (contoh: tombol Refresh). <br>
+   - **ListView atau Charts:** Untuk menampilkan data dinamis seperti grafik. <br>
+b. Sesuaikan tata letak dengan properti seperti warna, ukuran, dan gaya. <br>
 
-**Langkah-langkah:**
-- Tambahkan komponen:
-  - **Label:** Untuk teks atau informasi statis.
-  - **Button:** Untuk aksi pengguna (contoh: tombol Refresh).
-  - **ListView atau Charts:** Untuk menampilkan data dinamis seperti grafik.
-- Sesuaikan tata letak dengan properti seperti warna, ukuran, dan gaya.
-
-**Tips:** Gunakan desain yang sederhana dan mudah dipahami pengguna.
+**Tips:** Gunakan desain yang sederhana dan mudah dipahami pengguna. <br>
 
 ---
 
 ## 5. Tambahkan Fungsionalitas (Logic)
-Tambahkan logika aplikasi di tab **Blocks** untuk membuat aplikasi lebih dinamis.
+Tambahkan logika aplikasi di tab **Blocks** untuk membuat aplikasi lebih dinamis.  
+**Langkah-langkah:** <br>
+a. **Integrasi Google Spreadsheet:**
+   - Gunakan komponen **Google Sheets**. <br>
+   - Tambahkan API key atau URL Spreadsheet Anda. <br>
+b. **Integrasi MQTT:**
+   - Gunakan komponen **Web** untuk koneksi ke broker MQTT. <br>
+   - Atur URL broker, topik (*topic*), dan payload data. <br>
+c. Tambahkan logika seperti *if-else* atau loop untuk memproses data sensor. <br>
 
-**Langkah-langkah:**
-1. **Integrasi Google Spreadsheet:**
-   - Gunakan komponen **Google Sheets**.
-   - Tambahkan API key atau URL Spreadsheet Anda.
-2. **Integrasi MQTT:**
-   - Gunakan komponen **Web** untuk koneksi ke broker MQTT.
-   - Atur URL broker, topik (*topic*), dan payload data.
-3. Tambahkan logika seperti *if-else* atau loop untuk memproses data sensor.
-
-**Tips:** Gunakan blok secara bertahap agar lebih mudah dipahami.
+**Tips:** Gunakan blok secara bertahap agar lebih mudah dipahami. <br>
 
 ---
 
 ## 6. Uji Coba Aplikasi
-Uji aplikasi di perangkat Android sebelum membangun file APK.
+Uji aplikasi di perangkat Android sebelum membangun file APK.  
+**Langkah-langkah:** <br>
+a. Unduh **Kodular Companion** dari Google Play Store. <br>
+b. Sambungkan perangkat Anda dengan Kodular melalui QR Code. <br>
+c. Uji semua fungsi aplikasi secara real-time. <br>
 
-**Langkah-langkah:**
-1. Unduh **Kodular Companion** dari Google Play Store.
-2. Sambungkan perangkat Anda dengan Kodular melalui QR Code.
-3. Uji semua fungsi aplikasi secara real-time.
-
-**Tips:** Periksa setiap fitur untuk memastikan tidak ada bug.
+**Tips:** Periksa setiap fitur untuk memastikan tidak ada bug. <br>
 
 ---
 
 ## 7. Perbaikan dan Penyesuaian
-Jika menemukan kesalahan saat pengujian, lakukan perbaikan.
+Jika menemukan kesalahan saat pengujian, lakukan perbaikan.  
+**Langkah-langkah:** <br>
+a. Periksa logika pada tab **Blocks**. <br>
+b. Sesuaikan properti komponen di tab **Designer**. <br>
+c. Uji kembali aplikasi hingga berfungsi sempurna. <br>
 
-**Langkah-langkah:**
-- Periksa logika pada tab **Blocks**.
-- Sesuaikan properti komponen di tab **Designer**.
-- Uji kembali aplikasi hingga berfungsi sempurna.
-
-**Tips:** Mintalah masukan dari teman atau pengguna lain untuk perbaikan.
+**Tips:** Mintalah masukan dari teman atau pengguna lain untuk perbaikan. <br>
 
 ---
 
 ## 8. Ekspor Aplikasi
-Setelah aplikasi selesai, ekspor ke format APK agar bisa diinstal di perangkat Android.
-
-**Langkah-langkah:**
-1. Klik **Export > Build APK** di menu Kodular.
-2. Tunggu hingga proses selesai dan unduh file APK.
-3. Instal APK di perangkat Android untuk pengujian lebih lanjut.
+Setelah aplikasi selesai, ekspor ke format APK agar bisa diinstal di perangkat Android.  
+**Langkah-langkah:** <br>
+a. Klik **Export > Build APK** di menu Kodular. <br>
+b. Tunggu hingga proses selesai dan unduh file APK. <br>
+c. Instal APK di perangkat Android untuk pengujian lebih lanjut. <br>
 
 ---
 
 ## 9. Publikasi (Opsional)
-Jika ingin membagikan aplikasi, Anda bisa mengunggahnya ke Google Play Store.
-
-**Langkah-langkah:**
-1. Daftar akun Google Play Console (membutuhkan biaya registrasi).
-2. Ikuti panduan pengunggahan aplikasi dan unggah APK Anda.
-3. Buat deskripsi aplikasi, tangkapan layar, dan metadata lainnya.
-
----
-
-## Tambahan: Tips untuk Pemula
-- Gunakan **komponen bawaan** Kodular terlebih dahulu sebelum mencoba ekstensi pihak ketiga.
-- Dokumentasikan proyek Anda agar lebih mudah dipahami di masa depan.
-- Bergabung dengan komunitas Kodular untuk bertanya dan belajar dari pengguna lain.
+Jika ingin membagikan aplikasi, Anda bisa mengunggahnya ke Google Play Store.  
+**Langkah-langkah:** <br>
+a. Daftar akun Google Play Console (membutuhkan biaya registrasi). <br>
+b. Ikuti panduan pengunggahan aplikasi dan unggah APK Anda. <br>
+c. Buat deskripsi aplikasi, tangkapan layar, dan metadata lainnya. <br>
 
 ---
 
-Semoga README.md ini membantu Anda membuat aplikasi Android menggunakan Kodular!
+## Tips
+- Gunakan **komponen bawaan** Kodular terlebih dahulu sebelum mencoba ekstensi pihak ketiga. <br>
+- Dokumentasikan proyek Anda agar lebih mudah dipahami di masa depan. <br>
+- Bergabung dengan komunitas Kodular untuk bertanya dan belajar dari pengguna lain. <br>
+
+---
+
+**Selamat mencoba dan semoga berhasil! 🎉**
