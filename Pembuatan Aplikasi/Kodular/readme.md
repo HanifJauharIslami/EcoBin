@@ -49,6 +49,7 @@ Anda membutuhkan akun Kodular untuk memulai.
 **Langkah-langkah:**
 1. Kunjungi [Kodular Creator](https://creator.kodular.io).
 2. Buat akun menggunakan email Anda atau login jika sudah punya akun.
+ <img src="Media/login%20kodular.png" alt="Kodular Image" width="250" height="400">
 3. Masuk ke dashboard Kodular.
 
 
