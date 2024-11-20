@@ -33,7 +33,6 @@ Kodular dapat digunakan secara gratis untuk semua pengembangan aplikasi, dan And
 
 Aplikasi ini dibangun menggunakan Kodular, sebuah platform tanpa kode (*no-code*) untuk membuat aplikasi Android. Panduan ini akan membantu Anda membuat aplikasi dari nol hingga selesai.
 
----
 
 ## 1. Riset dan Persiapan Awal
 Langkah pertama sebelum mulai membuat aplikasi adalah memahami apa yang ingin Anda buat.
