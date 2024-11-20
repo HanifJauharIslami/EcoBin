@@ -42,7 +42,6 @@ Langkah pertama sebelum mulai membuat aplikasi adalah memahami apa yang ingin An
 - Siapkan bahan-bahan yang dibutuhkan, seperti data dari sensor, URL API, atau Google Spreadsheet.
 - (Opsional) Buat sketsa sederhana desain aplikasi agar lebih terarah.
 
----
 
 ## 2. Membuat Akun Kodular
 Anda membutuhkan akun Kodular untuk memulai.
@@ -52,7 +51,6 @@ Anda membutuhkan akun Kodular untuk memulai.
 2. Buat akun menggunakan email Anda atau login jika sudah punya akun.
 3. Masuk ke dashboard Kodular.
 
----
 
 ## 3. Buat Proyek Baru
 Langkah ini untuk memulai aplikasi dari nol.
@@ -62,7 +60,6 @@ Langkah ini untuk memulai aplikasi dari nol.
 2. Beri nama proyek Anda (contoh: MonitoringApp).
 3. Pilih template kosong agar lebih fleksibel dalam desain.
 
----
 
 ## 4. Desain Antarmuka (User Interface)
 Gunakan panel **Designer** untuk mendesain tampilan aplikasi.
@@ -76,7 +73,6 @@ Gunakan panel **Designer** untuk mendesain tampilan aplikasi.
 
 **Tips:** Gunakan desain yang sederhana dan mudah dipahami pengguna.
 
----
 
 ## 5. Tambahkan Fungsionalitas (Logic)
 Tambahkan logika aplikasi di tab **Blocks** untuk membuat aplikasi lebih dinamis.
@@ -92,7 +88,6 @@ Tambahkan logika aplikasi di tab **Blocks** untuk membuat aplikasi lebih dinamis
 
 **Tips:** Gunakan blok secara bertahap agar lebih mudah dipahami.
 
----
 
 ## 6. Uji Coba Aplikasi
 Uji aplikasi di perangkat Android sebelum membangun file APK.
@@ -104,7 +99,6 @@ Uji aplikasi di perangkat Android sebelum membangun file APK.
 
 **Tips:** Periksa setiap fitur untuk memastikan tidak ada bug.
 
----
 
 ## 7. Perbaikan dan Penyesuaian
 Jika menemukan kesalahan saat pengujian, lakukan perbaikan.
@@ -116,7 +110,6 @@ Jika menemukan kesalahan saat pengujian, lakukan perbaikan.
 
 **Tips:** Mintalah masukan dari teman atau pengguna lain untuk perbaikan.
 
----
 
 ## 8. Ekspor Aplikasi
 Setelah aplikasi selesai, ekspor ke format APK agar bisa diinstal di perangkat Android.
@@ -126,7 +119,6 @@ Setelah aplikasi selesai, ekspor ke format APK agar bisa diinstal di perangkat A
 2. Tunggu hingga proses selesai dan unduh file APK.
 3. Instal APK di perangkat Android untuk pengujian lebih lanjut.
 
----
 
 ## 9. Publikasi (Opsional)
 Jika ingin membagikan aplikasi, Anda bisa mengunggahnya ke Google Play Store.
@@ -136,13 +128,13 @@ Jika ingin membagikan aplikasi, Anda bisa mengunggahnya ke Google Play Store.
 2. Ikuti panduan pengunggahan aplikasi dan unggah APK Anda.
 3. Buat deskripsi aplikasi, tangkapan layar, dan metadata lainnya.
 
----
 
 ## Tambahan: Tips untuk Pemula
 - Gunakan **komponen bawaan** Kodular terlebih dahulu sebelum mencoba ekstensi pihak ketiga.
 - Dokumentasikan proyek Anda agar lebih mudah dipahami di masa depan.
 - Bergabung dengan komunitas Kodular untuk bertanya dan belajar dari pengguna lain.
 
----
 
 **Selamat mencoba dan semoga berhasil! 🎉**
+
+---
