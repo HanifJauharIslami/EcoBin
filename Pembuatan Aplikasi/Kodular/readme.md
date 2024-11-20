@@ -1,6 +1,6 @@
 # **Kodular**
 
-<img src="Media/kodular2.jpg">
+<img src="Media/kodular2.jpg" alt="Kodular" width="300" height="150">
 
 
 **Kodular** adalah platform pemrograman visual yang memungkinkan pengguna menciptakan aplikasi seluler tanpa harus menulis kode tradisional. Platform ini berbasis cloud, memiliki editor visual di mana pengguna dapat merakit komponen aplikasi dan mendefinisikan perilakunya, serta menyediakan fitur-fitur lain yang memudahkan pengembangan aplikasi tanpa keterampilan pemrograman yang rumit.
@@ -48,8 +48,7 @@ Anda membutuhkan akun Kodular untuk memulai.
 
 **Langkah-langkah:**
 1. Kunjungi [Kodular Creator](https://creator.kodular.io).
-2. Buat akun menggunakan email Anda atau login jika sudah punya akun.
- <img src="Media/login%20kodular.png" alt="Kodular Image" width="250" height="400">
+2. Buat akun menggunakan email Anda atau login jika sudah punya akun. <br/> <img src="Media/login%20kodular.png" alt="login kodular" width="250" height="400">
 3. Masuk ke dashboard Kodular.
 
 
@@ -57,7 +56,7 @@ Anda membutuhkan akun Kodular untuk memulai.
 Langkah ini untuk memulai aplikasi dari nol.
 
 **Langkah-langkah:**
-1. Klik tombol **"Create Project"** di dashboard Kodular.
+1. Klik tombol **"Create Project"** di dashboard Kodular. <br/> <img src="Media/dashboard%20kodular2.png" alt="dashboard kodular" width="600" height="300">
 2. Beri nama proyek Anda (contoh: MonitoringApp).
 3. Pilih template kosong agar lebih fleksibel dalam desain.
 
