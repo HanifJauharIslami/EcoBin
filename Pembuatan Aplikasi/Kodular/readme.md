@@ -13,6 +13,28 @@ Aplikasi ini dibangun menggunakan Kodular, sebuah platform tanpa kode (*no-code*
 
 ---
 
+# Mengapa Harus Menggunakan Kodular?
+
+Kodular adalah platform yang sangat cocok untuk siapa saja yang ingin membuat aplikasi Android dengan cepat dan mudah. Berikut adalah alasan mengapa Anda harus memilih Kodular:
+
+## 1. Tidak Memerlukan Pengetahuan Coding
+Kodular memungkinkan Anda membuat aplikasi tanpa menulis satu baris kode pun. Semua logika dapat dibuat menggunakan blok visual yang intuitif, sehingga cocok untuk pemula.
+
+## 2. Antarmuka Visual yang Mudah Digunakan
+Kodular menyediakan antarmuka desain berbasis *drag-and-drop* yang sederhana dan ramah pengguna. Anda cukup menarik komponen ke layar, menyesuaikan properti, dan aplikasi Anda siap dibuat.
+
+## 3. Mendukung Banyak Fitur Bawaan
+Kodular memiliki banyak fitur bawaan yang memudahkan pengembangan aplikasi:
+- API integrasi (Google Sheets, Firebase, REST API).
+- Koneksi Bluetooth dan IoT.
+- Komponen untuk membuat notifikasi push.
+- Dukungan penuh untuk desain responsif.
+
+## 4. Gratis untuk Digunakan dengan Opsi Ekspor ke APK
+Kodular dapat digunakan secara gratis untuk semua pengembangan aplikasi, dan Anda dapat dengan mudah mengekspor aplikasi Anda ke file APK untuk diinstal di perangkat Android tanpa biaya tambahan.
+
+---
+
 ## 1. Riset dan Persiapan Awal
 Langkah pertama sebelum mulai membuat aplikasi adalah memahami apa yang ingin Anda buat.
 
