@@ -7,12 +7,6 @@
 
 ---
 
-# Panduan Membuat Aplikasi di Kodular
-
-Aplikasi ini dibangun menggunakan Kodular, sebuah platform tanpa kode (*no-code*) untuk membuat aplikasi Android. Panduan ini akan membantu Anda membuat aplikasi dari nol hingga selesai.
-
----
-
 # Mengapa Harus Menggunakan Kodular?
 
 Kodular adalah platform yang sangat cocok untuk siapa saja yang ingin membuat aplikasi Android dengan cepat dan mudah. Berikut adalah alasan mengapa Anda harus memilih Kodular:
@@ -32,6 +26,12 @@ Kodular memiliki banyak fitur bawaan yang memudahkan pengembangan aplikasi:
 
 ## 4. Gratis untuk Digunakan dengan Opsi Ekspor ke APK
 Kodular dapat digunakan secara gratis untuk semua pengembangan aplikasi, dan Anda dapat dengan mudah mengekspor aplikasi Anda ke file APK untuk diinstal di perangkat Android tanpa biaya tambahan.
+
+---
+
+# Panduan Membuat Aplikasi di Kodular
+
+Aplikasi ini dibangun menggunakan Kodular, sebuah platform tanpa kode (*no-code*) untuk membuat aplikasi Android. Panduan ini akan membantu Anda membuat aplikasi dari nol hingga selesai.
 
 ---
 
