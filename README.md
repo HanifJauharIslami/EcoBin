@@ -70,9 +70,9 @@ Dengan EcoBin, kita bisa bersama-sama berkontribusi untuk mengurangi limbah, men
 ## Hardware
 
 Berikut ini adalah hasil skematik rangkaian EcoBin menggunakan software Eagle.
-<img src="Dokumentasi/Skematik EcoBin.jpg">
+<img src="Dokumentasi/Skematik PCB EcoBin.jpg">
 
-<img src="Dokumentasi/Board EcoBin.jpg">
+<img src="Dokumentasi/Boarb PCB EcoBin.jpg">
 
 ## Desain 3D
 
