@@ -1,6 +1,8 @@
+<img src="Dokumentasi/1120-Cover.jpg">
+
+# Logo EcoBin
 <img src="Dokumentasi/Logo_EcoBin.png">
 
-# EcoBin
 Inovasi Tempat Sampah Pintar Berbasis IoT untuk Pemilahan Sampah Otomatis dan Ramah Lingkungan.
 
 EcoBin adalah konsep pengembangan tempat sampah masa depan yang mengintegrasikan teknologi Internet of Things (IoT) untuk meningkatkan efisiensi dan akurasi dalam pemilahan sampah. Dengan EcoBin, pemisahan jenis sampah seperti organik, anorganik, dan logam kini bisa dilakukan secara otomatis, berkat penggunaan sensor-sensor canggih yang terhubung ke jaringan.
