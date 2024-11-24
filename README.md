@@ -52,6 +52,7 @@ Dengan EcoBin, kita bisa bersama-sama berkontribusi untuk mengurangi limbah, men
     c. Inventor<br>
     d. Visual Studio Code (VSC)<br>
     e. Eagle<br>
+    f. Canva<br>
 
 3. **Alat dan Bahan**<br>
     a. Solder<br>
@@ -66,6 +67,9 @@ Dengan EcoBin, kita bisa bersama-sama berkontribusi untuk mengurangi limbah, men
     j. Tang potong<br>
     k. AVO meter<br>
     l. Kabel Tis<br>
+    m. Tong sampah<br>
+    n. Kertas karton<br>
+    o. Plastik mika<br>
  
 ## Hardware
 
