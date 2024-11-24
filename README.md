@@ -129,3 +129,7 @@ https://youtube.com/shorts/vXUlN9MAh_8?si=Hyg46T4SGvrTzFxR
 ## [Video Presentasi]
 Berikut ini merupakan sebuah Video Presentasi 
 https://youtu.be/xpsT1zdTLzE?si=1n6SR70wY_DcKX7b
+
+## [Video Animasi 3D Sistem]
+Berikut ini merupakan sebuah Video Animasi dari implementasi kerja dari produk EcoBin
+https://youtu.be/L25IosdigD4?si=-xUagbL3maFgG3hZ
