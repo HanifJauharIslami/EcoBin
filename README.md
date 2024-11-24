@@ -119,6 +119,7 @@ Klik link [WOKWI SIMULATION](https://wokwi.com/projects/411379523365083137  "WOK
 
 ## [Design UI/UX]
 Berikut ini adalah video demonstrasi dari UI/UX EcoBin [UI/UX Figma](https://github.com/HanifJauharIslami/EcoBin/blob/main/Desain%20%26%20Perencanaan/Desain%20UI%20UX/Video%20Simulasi%20Desain%20UI%20UX.mp4)
+yang dirancang dengan cermat melalui Figma! Saksikan bagaimana tampilan antarmuka yang modern, intuitif, dan ramah pengguna ini dapat memudahkan pengelolaan sampahmu sekaligus mendukung gaya hidup berkelanjutan. Yuk, jelajahi pengalaman baru bersama EcoBin.
 
 ## [Dokumentasi Presentasi]
 Untuk file dokumentasi presentasi yang mencakup progres keseluruhan dari project ini, dapat diakses melalui link berikut
