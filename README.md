@@ -122,9 +122,8 @@ Berikut ini adalah video demonstrasi dari UI/UX EcoBin [UI/UX Figma](https://git
 Untuk file dokumentasi presentasi yang mencakup progres keseluruhan dari project ini, dapat diakses melalui link berikut
 https://www.canva.com/design/DAGW5qldhn8/VcVr3ikPfyFXVI_1jrsfLQ/edit 
 
-## [Video Iklan]
-Berikut ini merupakan sebuah Video Iklan dari produk EcoBin
-https://youtube.com/shorts/vXUlN9MAh_8?si=Hyg46T4SGvrTzFxR
+## [Video Iklan EcoBin]
+https://github.com/user-attachments/assets/9ff95b26-ae8f-4da3-ab34-a3e6bbd686d2
 
 ## [Video Presentasi]
 Berikut ini merupakan sebuah Video Presentasi 
