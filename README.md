@@ -128,8 +128,7 @@ https://www.canva.com/design/DAGW5qldhn8/VcVr3ikPfyFXVI_1jrsfLQ/edit
 https://github.com/user-attachments/assets/9ff95b26-ae8f-4da3-ab34-a3e6bbd686d2
 
 ## [Video Presentasi]
-Berikut ini merupakan sebuah Video Presentasi 
-https://youtu.be/xpsT1zdTLzE?si=1n6SR70wY_DcKX7b
+https://github.com/user-attachments/assets/311d540c-b6a1-4b6d-8765-bba1ee726d60
 
 ## [Video Animasi 3D Sistem]
 https://github.com/user-attachments/assets/8d097e46-a294-48c1-8112-243f85b5fb7d
