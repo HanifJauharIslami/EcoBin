@@ -17,6 +17,11 @@ Dengan EcoBin, kita bisa bersama-sama berkontribusi untuk mengurangi limbah, men
 >- Politeknik Elektronika Negeri Surabaya<br>
 
 ## Team Member :
+
+<p align="center">
+  <img src="Dokumentasi/foto.jpg">
+</p>
+
 |      NRP      |       Nama      |    Jobdesk    |   Akun |
 | :-----------:|:----------------:| :------------:| :-----:|
 | 2122600032    | Regar Mukti Wijaya  | Hardware Developer       | [Reigar304](https://github.com/Regar304)
@@ -75,14 +80,31 @@ Dengan EcoBin, kita bisa bersama-sama berkontribusi untuk mengurangi limbah, men
  
 ## Hardware
 
-Berikut ini adalah hasil skematik rangkaian EcoBin menggunakan software Eagle.
-<img src="Dokumentasi/Skematik PCB EcoBin.jpg">
+Berikut ini adalah hasil skematik rangkaian EcoBin menggunakan software Eagle.<br>
 
-<img src="Dokumentasi/Boarb PCB EcoBin.jpg">
+**Schematic Design**
 
-<img src="Dokumentasi/3D PCB depan.jpg">
+<p align="center">
+  <img src="Dokumentasi/Skematik PCB EcoBin.jpg">
+</p>
 
-<img src="Dokumentasi/3D PCB belakang.jpg">
+**Board Design**
+
+<p align="center">
+  <img src="Dokumentasi/Boarb PCB EcoBin.jpg">
+</p>
+
+**3D Board Depan**
+
+<p align="center">
+  <img src="Dokumentasi/3D PCB depan.jpg">
+</p>
+
+**3D Board Belakang**
+
+<p align="center">
+  <img src="Dokumentasi/3D PCB belakang.jpg">
+</p>
 
 ## Desain 3D
 
