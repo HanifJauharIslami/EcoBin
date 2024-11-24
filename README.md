@@ -100,10 +100,10 @@ Berikut ini adalah hasil skematik rangkaian EcoBin menggunakan software Eagle.<b
   <img src="Dokumentasi/3D PCB depan.jpg">
 </p>
 
-**3D Board Belakang**
+**Hasil PCB**
 
 <p align="center">
-  <img src="Dokumentasi/3D PCB belakang.jpg">
+  <img src="Dokumentasi/PCB jadi.jpg">
 </p>
 
 ## Desain 3D
