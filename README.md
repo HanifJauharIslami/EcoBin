@@ -152,6 +152,9 @@ yang dirancang dengan cermat melalui Figma! Saksikan bagaimana tampilan antarmuk
 Untuk file dokumentasi presentasi yang mencakup progres keseluruhan dari project ini, dapat diakses melalui link berikut
 https://www.canva.com/design/DAGW5qldhn8/VcVr3ikPfyFXVI_1jrsfLQ/edit 
 
+## [Video Simulasi EcoBin]
+https://github.com/user-attachments/assets/16c2eb3c-403b-46f2-9d4a-512dc8649475
+
 ## [Video Iklan EcoBin]
 https://github.com/user-attachments/assets/9ff95b26-ae8f-4da3-ab34-a3e6bbd686d2
 
