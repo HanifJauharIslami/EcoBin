@@ -80,7 +80,7 @@ Dengan EcoBin, kita bisa bersama-sama berkontribusi untuk mengurangi limbah, men
  
 ## Hardware
 
-Berikut ini adalah hasil skematik rangkaian EcoBin menggunakan software Eagle.<br>
+Berikut ini adalah hasil skematik rangkaian EcoBin menggunakan software KiCad.<br>
 
 **Schematic Design**
 
