@@ -115,8 +115,9 @@ Berikut ini adalah hasil skematik rangkaian EcoBin menggunakan software KiCad.<b
 <img src="Desain 3D EcoBin/3D-Sudut.png">
 
 3. Desain 3D Tampak Belakang <br>
-<img src="Desain 3D EcoBin/3D-Belakang.png">
+<img src="Desain 3D EcoBin/3D-Belakang.png"><br>
 
+<img src="Desain 3D EcoBin/TampilanThingverse.png">
 Berikut adalah Link Thingivers Design 3D [Thingivers](https://www.thingiverse.com/thing:6826473). <br>
 Klik link Video Simulasi Software [Video](https://drive.google.com/file/d/1z52mZQDJVuQlTp9NXhlNtxdHz51nXP60/view?usp=sharing).
 
