@@ -180,3 +180,5 @@ Link Youtube : https://youtu.be/L25IosdigD4?si=-IxbOO3H8wgayvaM
 
 ## [Flyer EcoBin]
 Berikut adalah file untuk [Flyer EcoBin](https://github.com/HanifJauharIslami/EcoBin/blob/main/Dokumentasi/Flyer_EcoBin.pdf)
+
+<img src="Dokumentasi/Flyer.jpg">
