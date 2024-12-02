@@ -165,5 +165,4 @@ https://github.com/user-attachments/assets/311d540c-b6a1-4b6d-8765-bba1ee726d60
 https://github.com/user-attachments/assets/8d097e46-a294-48c1-8112-243f85b5fb7d
 
 ## [Flyer EcoBin]
-Berikut adalah Flyer untuk produk EcoBin
-https://github.com/HanifJauharIslami/EcoBin/blob/main/Dokumentasi/Flyer_EcoBin.pdf
+Berikut adalah file untuk [Flyer EcoBin](https://github.com/HanifJauharIslami/EcoBin/blob/main/Dokumentasi/Flyer_EcoBin.pdf)
