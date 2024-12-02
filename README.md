@@ -117,7 +117,6 @@ Berikut ini adalah hasil skematik rangkaian EcoBin menggunakan software KiCad.<b
 3. Desain 3D Tampak Belakang <br>
 <img src="Desain 3D EcoBin/3D-Belakang.png">
 
-<img src="Desain 3D EcoBin/TampilanThingverse.png"><br>
 Berikut adalah Link Thingivers Design 3D [Thingivers](https://www.thingiverse.com/thing:6826473). <br>
 Klik link Video Simulasi Software [Video](https://drive.google.com/file/d/1z52mZQDJVuQlTp9NXhlNtxdHz51nXP60/view?usp=sharing).
 
@@ -156,14 +155,27 @@ https://www.canva.com/design/DAGW5qldhn8/VcVr3ikPfyFXVI_1jrsfLQ/edit
 ## [Video Simulasi EcoBin]
 https://github.com/user-attachments/assets/16c2eb3c-403b-46f2-9d4a-512dc8649475
 
+Link Youtube : https://youtube.com/shorts/ZxsLblwgZrs?si=1cHGc5KkTYa8Zg-G
+
 ## [Video Iklan EcoBin]
 https://github.com/user-attachments/assets/9ff95b26-ae8f-4da3-ab34-a3e6bbd686d2
+
+Link Youtube : https://youtube.com/shorts/vXUlN9MAh_8?si=5jBcnLvSHuryhwUk
 
 ## [Video Presentasi]
 https://github.com/user-attachments/assets/311d540c-b6a1-4b6d-8765-bba1ee726d60
 
+Link Youtube : https://youtu.be/xpsT1zdTLzE?si=sbbwAO5VE0eOybSw
+
+## [Video Simulasi Aplikasi]
+https://github.com/user-attachments/assets/c990daf0-80a3-4ca3-8e69-18d209fd505e
+
+Link Youtube : https://youtube.com/shorts/etQ17vk4ks4?si=3HXSWAJYS4fMmGpW
+
 ## [Video Animasi 3D Sistem]
 https://github.com/user-attachments/assets/8d097e46-a294-48c1-8112-243f85b5fb7d
+
+Link Youtube : https://youtu.be/L25IosdigD4?si=-IxbOO3H8wgayvaM
 
 ## [Flyer EcoBin]
 Berikut adalah file untuk [Flyer EcoBin](https://github.com/HanifJauharIslami/EcoBin/blob/main/Dokumentasi/Flyer_EcoBin.pdf)
